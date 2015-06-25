@@ -1,0 +1,2 @@
+# wx-favorites
+wechat server
