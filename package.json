@@ -1,0 +1,25 @@
+{
+  "name": "wx-favorites",
+  "version": "0.0.1",
+  "description": "wechat service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sjfkai/wx-favorites"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "sjfkai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjfkai/wx-favorites/issues"
+  },
+  "homepage": "https://github.com/sjfkai/wx-favorites",
+  "dependencies": {
+    "koa": "^0.21.0"
+  }
+}
